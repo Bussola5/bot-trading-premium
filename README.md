@@ -1,4 +1,4 @@
-# OPVS™ BOT PREMIUM
+ BOT TRADING PREMIUM
 
 Bot Telegram completamente automatico con:
 - Notifiche di trading in tempo reale
